@@ -1,2 +1,2 @@
 # UB_Marketplace_CSE442
-Software Engineering (Team project)
+Examines in detail the software development process. Topics include software life-cycle models; architectural and design approaches; various techniques for systematic software testing; coding and documentation strategies; project management; customer relations; the social, ethical, and legal aspects of computing; and the impact of economic, environmental, safety, manufacturability, and sustainability factors on design. Students in this course participate in a real-world project from conception to implementation.
